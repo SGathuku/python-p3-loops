@@ -9,8 +9,7 @@ def happy_new_year():
     print();
     
 def square_integers(int_list):
-    # code goes here!
-    pass
+    return [num**2 for num in int_list]
 
 def fizzbuzz():
     # code goes here!
